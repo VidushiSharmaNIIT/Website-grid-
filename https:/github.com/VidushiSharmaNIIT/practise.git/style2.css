@@ -9,35 +9,38 @@
 	float: left;
 	margin-top:0px;
 }
-.statics{
+.pic{
 	width: 100%;
 	height:70%;
 	margin-top: 5%;
 	margin-left: auto;
 	background-color: white;
-margin: left;
-text-align: left;
+
 }
-.pic{
+.pic img{
+
 	width: 47%;
 	height: 90%;
 	margin: 20px;
-	text-align: left;
+	float: left;
+}
+.pic p {
+	
+	text-align: right;
 	font-family: cursive;
 	float: right;
 	background-color: white;
 
 }
-.text{
-width: 47%;
-	height: 90%;
-	margin: 20px;
-	text-align: center;
-	font-family: cursive;
-	float: left;
-	background-color: white;
+
 }
 .statics h1{
 	margin-top: 20px;
+
+}
+.footer{
+	
+	background: grey;
+	font-family: cursive;
 
 }
