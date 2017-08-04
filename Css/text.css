@@ -27,12 +27,12 @@ hr {
 /* `Headings
 ----------------------------------------------------------------------------------------------------*/
 
-h1 {
-  font-size: 25px;
-}
+ h1 {
+
+  font-size: 32px;}
 
 h2 {
-  font-size: 23px;
+  font-size: 60px;
 }
 
 h3 {
@@ -40,7 +40,7 @@ h3 {
 }
 
 h4 {
-  font-size: 19px;
+  font-size: 40px;
 }
 
 h5 {
@@ -48,7 +48,7 @@ h5 {
 }
 
 h6 {
-  font-size: 15px;
+  font-size: 24px;
 }
 
 /* `Spacing
@@ -61,7 +61,9 @@ ol {
 ul {
   list-style: disc;
 }
-
+.heading ul a{
+  font-size:50px;
+}
 li {
   margin-left: 30px;
 }
@@ -83,4 +85,8 @@ address,
 fieldset,
 figure {
   margin-bottom: 20px;
+}
+.heading p{
+  background-color:grey;
+  font-size:50px;
 }
